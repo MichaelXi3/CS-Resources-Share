@@ -17,7 +17,7 @@ title: CS-Share
 description: A collection of wonderful cs resources online
 baseurl: "/cs-share"
 url: "https://michaelxi3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: CS-Resources-Share/CS-Resources-Share # for github-metadata
+repository: cs-share/cs-share # for github-metadata
 
 permalink: pretty
 
