@@ -1,1 +1,1 @@
-# CS-Resources-Share
+During my self-learning journey in computer science, I have discovered many wonderful online resources. These include bloggers' sites, the best online courses, documentations, videos, and other resource sharing repositories. I hope this repository can guide you to the most enjoyable learning experiences on the internet and the best parts of computer science!
